@@ -1,10 +1,10 @@
 #Program02
 
 ## Requirement
-  install java
-  install scala
-  install sbt
+    install java
+    install scala
+    install sbt
 
 ## Run
-  sbt compile
-  sbt run
+    sbt compile
+    sbt run
