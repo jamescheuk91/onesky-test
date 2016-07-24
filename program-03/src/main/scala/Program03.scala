@@ -1,6 +1,6 @@
 import scala.concurrent.Future
 import scala.concurrent.ExecutionContext.Implicits.global
-import scala.util.{Try, Success, Failure}
+import scala.util.{Success, Failure}
 
 object Program03 {
   def main(args: Array[String]): Unit = {
