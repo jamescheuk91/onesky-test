@@ -4,7 +4,7 @@ import scala.util.{Try, Success, Failure}
 
 object Program03 {
   def main(args: Array[String]): Unit = {
-    println("run Program03!")
+    println("Run Program03!")
 
     // I use Future becasue of it represents the result of an asynchronous computation.
     val result: Future[Int] = Future {

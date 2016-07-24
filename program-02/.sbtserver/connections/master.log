@@ -1,0 +1,7 @@
+New log file opened at Sun Jul 24 13:33:19 HKT 2016 by 17916@jccf091-arch01
+Taking next connection to: 33133
+New client attempting to connect on port: 34462-33133
+  Address = /192.168.1.179:33133
+This client on port 34462 has uuid ed742b6a-bc7b-41ab-8545-4625d8871f03 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-ed742b6a-bc7b-41ab-8545-4625d8871f03
+Taking next connection to: 33133
