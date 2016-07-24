@@ -1,0 +1,10 @@
+New log file opened at Sun Jul 24 14:42:30 HKT 2016 by 30126@jccf091-arch01
+Taking next connection to: 45343
+New client attempting to connect on port: 43148-45343
+  Address = /192.168.1.179:45343
+This client on port 43148 has uuid f20d0786-73de-494f-bb0a-9a7123540109 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-f20d0786-73de-494f-bb0a-9a7123540109
+Taking next connection to: 45343
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 45343
